@@ -1,10 +1,5 @@
 # 🚀 Portfolio de Data Science & Automatización
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Data Science](https://img.shields.io/badge/Data_Science-Advanced-green)
-![Automation](https://img.shields.io/badge/Automation-Expert-orange)
-![Documentation](https://img.shields.io/badge/Documentation-Professional-purple)
-
 ## 🎯 Competencias Técnicas Demostradas
 
 ### 💡 Data Science & Analytics
