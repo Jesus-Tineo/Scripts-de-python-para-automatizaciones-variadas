@@ -1,0 +1,24 @@
+# Procesamiento de datos y análisis
+pandas>=1.3.0
+numpy>=1.21.0
+difflib>=3.7.0
+
+# Manipulación de documentos Word
+python-docx>=0.8.11
+docx2txt>=0.8
+pywin32>=305
+
+# Manejo de archivos y sistema
+pathlib>=1.0.1
+os-sys>=2.1.4
+
+# Expresiones regulares y procesamiento de texto
+regex>=2022.1.18
+
+# Utilidades de desarrollo
+python-dateutil>=2.8.2
+setuptools>=65.5.1
+wheel>=0.38.4
+
+# Formateo y manejo de rutas
+pathspec>=0.9.0
