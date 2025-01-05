@@ -29,7 +29,7 @@
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/tuusuario/detector-personas
+git clone https://github.com/Jesus-Tineo/Scripts-de-python-para-automatizaciones-variadas/tree/main/detecci%C3%B3n_y_recorte
 
 # Instala los paquetes requeridos
 pip install opencv-python
